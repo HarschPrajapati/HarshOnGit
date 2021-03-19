@@ -1,0 +1,21 @@
+Besitzer@DESKTOP-2ORJ9TT MINGW64 ~/HarshOnGit (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Besitzer@DESKTOP-2ORJ9TT MINGW64 ~/HarshOnGit (master)
+$ mkdir file_2.docx
+
+Besitzer@DESKTOP-2ORJ9TT MINGW64 ~/HarshOnGit (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Besitzer@DESKTOP-2ORJ9TT MINGW64 ~/HarshOnGit (master)
+$
+
+
